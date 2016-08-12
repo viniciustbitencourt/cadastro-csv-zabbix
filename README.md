@@ -1,2 +1,2 @@
 # cadastro-csv-zabbix
-Script para cadastro de multiplos hosts no zabbix em arquivo .csv
+Script para cadastrar multiplos hosts no zabbix em arquivo .csv
